@@ -5,4 +5,5 @@ Ce projet est un laboratoire pour apprendre à utiliser Git et GitHub.
 - index.html : Page d'accueil contenant mon nom.
 - LICENCE : Licence MIT. -->
 
-
+## Lien vers GitHub Pages
+(https://fatoumai.github.io/laboratoire/)
